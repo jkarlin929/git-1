@@ -1,11 +1,11 @@
 function toUpper() {
-  console.log('Hello Amanda');
+  console.log('I am on toUpper');
 }
 
 toUpper();
 
 function toLower() {
-  console.log('Hello Juan');
+  console.log('I am on toLower');
 }
 
-toLower()
+toLower();
